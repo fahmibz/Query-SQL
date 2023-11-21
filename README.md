@@ -1,4 +1,4 @@
-# Query-SQL
+# Menjalankan Query SQL
 
- Download atau salin Query SQL
+ Download atau salin Query SQL,
  Jika sudah jalankan Query di PHPMyAdmin dengan nama Database DB_APTK
